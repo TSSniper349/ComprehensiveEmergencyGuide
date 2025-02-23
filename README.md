@@ -1,7 +1,7 @@
 # Emergency Scenarios Guide
 
 A fully deployable progressive web application designed to help users quickly access step-by-step instructions for a wide range of emergency scenarios—from drowning and fires to heart attacks, earthquakes, and cybersecurity incidents.
-![Emergency Guide Screenshot](./MainPageScreeshot.png)
+![Emergency Guide Screenshot](./img/MainPage.png)
 
 ## Features
 
