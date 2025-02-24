@@ -15,6 +15,6 @@ A fully deployable progressive web application designed to help users quickly ac
   - **Dark Mode:** Toggle for comfortable viewing in any lighting.
 - **Accessibility & UX Focus:** Built with semantic HTML, ARIA roles, and optimized for users of all abilities.
 
-[![Email Me](https://img.shields.io/badge/Email-Contact_D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duybao21560@gmail.com)
-[![Visit My Website](https://img.shields.io/badge/Website-Visit_4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yourwebsite.co)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tssniper349)
+[![Email Me](https://img.shields.io/badge/Email-Get_In_Touch-FF4500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duybao21560@gmail.com)
+[![My Website](https://img.shields.io/badge/Website-Explore-1E90FF?style=for-the-badge&logo=chrome&logoColor=white)](https://www.yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tssniper349)
