@@ -3,7 +3,7 @@
 A fully deployable progressive web application designed to help users quickly access step-by-step instructions for a wide range of emergency scenarios—from drowning and fires to heart attacks, earthquakes, and cybersecurity incidents.
 
 [![Email Me](https://img.shields.io/badge/Email-Get_In_Touch-FF4500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duybao21560@gmail.com)
-[![My Website](https://img.shields.io/badge/Website-Explore-1E90FF?style=for-the-badge&logo=chrome&logoColor=white)](https://www.yourwebsite.com)
+[![My Website](https://img.shields.io/badge/Website-Explore-1E90FF?style=for-the-badge&logo=chrome&logoColor=white)](https://tssniper349.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tssniper349)
 ![Emergency Guide Screenshot](./img/MainPage.png)
 
