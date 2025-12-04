@@ -1,8 +1,9 @@
-const CACHE_NAME = 'emergency-guide-cache-v2';
+const CACHE_NAME = 'emergency-guide-cache-v3';
 const urlsToCache = [
   '/',
-  '/index.html',
-  // Include other assets or external URLs as needed.
+  '/test2.html',
+  '/service-worker.js',
+  '/img/MainPage.png'
 ];
 
 // Install event: cache necessary assets.
